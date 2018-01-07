@@ -1,0 +1,68 @@
+﻿
+   
+.emojibox {  
+    width: 355px;  
+    height: auto;  
+    background: #fff;  
+    border: 1px solid #ccc;  
+    margin-right: 20px;  
+    display: inline-block;  
+    float: left;  
+    position: relative;  
+}  
+   
+.textemoji {  
+    width: 267px;  
+    float: left;  
+    height: 50px;  
+    border: none;  
+    background: none;  
+    outline: none;  
+    padding: 0 0 0 10px;  
+    font-size: 18px;  
+}  
+   
+.btnemoji {  
+    width: 70px;  
+    height: 45px;  
+    float: right;  
+    border: none;  
+    background: none;  
+    outline: none;  
+    font-size: 30px;  
+}  
+   
+.sendbutton {  
+    border: 1px solid #ccc;  
+    background: #f2f2f2;  
+    width: 100px;  
+    height: 30px;  
+    text-align: center;  
+    line-height: 30px;  
+    color: #252525;  
+}  
+   
+.emoji-list {  
+    display: none;  
+    height: auto;  
+    width: 250px;  
+    background: #000;  
+    border: #020202;  
+    position: absolute;  
+    overflow: hidden;  
+    top: 73px;  
+    right: 0px;  
+}  
+   
+    .emoji-list li {  
+        float: left;  
+        font-size: 30px;  
+        margin: 0 10px 0 10px;  
+        cursor: pointer;  
+    }  
+   
+
+   
+.lbltwitteremojimsg {  
+    font-size: 20px;  
+}  
